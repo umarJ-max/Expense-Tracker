@@ -35,7 +35,7 @@ export default function Summary({ transactions, currency }: SummaryProps) {
       </div>
       <footer className="footer">
         <hr />
-        <p>© 2024 All Rights Reserved - Umar J</p>
+        <p>© 2025 All Rights Reserved - Umar J</p>
       </footer>
     </div>
   );
